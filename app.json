@@ -1,0 +1,12 @@
+{
+  "name": "instanative",
+  "displayName": "instanative",
+  "expo": {
+    "name": "instanative",
+    "slug": "instanative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
